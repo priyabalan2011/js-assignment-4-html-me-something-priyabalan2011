@@ -1,9 +1,18 @@
 /* Write your CSS here! */
 footer {
     text-align: center;
-    padding: 3px;
+    margin: 10px;
+    padding: 5px;
     background-color: DarkSalmon;
     color: white;
+  }
+  #firstimage
+  {
+    height: 300px; 
+    width: 1200px; 
+    display:block ; 
+    margin-left: auto; 
+    margin-right: auto;
   }
   #mainHeading
   {
@@ -61,4 +70,9 @@ footer {
   {
     height: 300px; 
     width: 500px;
+  }
+  .all-browsers {
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(246, 214, 214);
   }
